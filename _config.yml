@@ -49,14 +49,14 @@ kramdown:
 
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
+#defaults:
+  #-
+    #scope:
+      #path: ""
+      #type: "posts"
+   # values:
+      #layout: "post"
+      #comments: true
 
 # Atom feed
 feed:
