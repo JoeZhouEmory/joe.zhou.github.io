@@ -5,7 +5,7 @@
 
 # Site
 title: Zhiheng (Joe) Zhou
-subtitle: Where is this??
+subtitle: 
 description: Emory University '25
 author: Joe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2018
+since: 2024
 
 # icon between year and author @Footer
 authoricon: heart
